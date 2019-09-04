@@ -1,0 +1,4 @@
+spring:
+  datasource:
+    username: LumpCode
+    password: '{cipher}a28ed464d2c91033a30389f502405b31e19ff37daa847fc0197a3edaa7022d93'
